@@ -1,6 +1,5 @@
 '''
 用于表合并的函数
-编写者：董又铭
 '''
 
 import pandas as pd
